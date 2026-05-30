@@ -216,3 +216,11 @@ Record Digitization · Search & Retrieval · REST APIs · Secure Auth · 100,000
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:06B6D4,100:8B5CF6&height=120&section=footer"/>
 
 </div>
+```
+
+> ⚠️ Note: In the **About Me** section, remove the spaces in the closing backticks `` ` ` ` `` — they're there only to prevent rendering issues here. It should be ` ``` ` (three backticks with no spaces).
+
+**How to use:**
+1. Go to `github.com/new` → create a repo named exactly `Dineshkumar-DK19`
+2. Add a `README.md` and paste this code
+3. Commit — it shows live on your profile instantly
